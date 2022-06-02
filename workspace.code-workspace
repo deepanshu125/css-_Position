@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../test 1"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css position "
+	}
+}
